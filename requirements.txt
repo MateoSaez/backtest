@@ -1,0 +1,4 @@
+pandas~=1.2.4
+numpy~=1.20.3
+justpy~=0.1.5
+matplotlib~=3.4.2
