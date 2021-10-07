@@ -11,7 +11,7 @@ class Data:
             'Europe': 'EUR',
             'Swiss': 'CHF',
             'UK': 'GBP',
-            'Japan': 'JPY',
+            'Japan': 'sdfJPY',
             'Canada': 'CAD',
             'Pacific': 'AUD',
             'USA': 'USD'
